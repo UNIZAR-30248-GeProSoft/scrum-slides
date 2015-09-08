@@ -1,0 +1,3 @@
+*.swp
+# cosas de gradle que no hace falta compartir
+.gradle/
