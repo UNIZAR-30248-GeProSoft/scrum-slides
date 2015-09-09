@@ -16,7 +16,7 @@ En las clases nos basamos en libro [Essential Scrum: A Practical Guide to the Mo
 - Roles en detalle: capítulos 9, 10, 11, 12 y 13
 
 # Licencia
-Salvo donde se indica lo contrario, las transparencias son Copyright © 2015 [Rubén Béjar](http://www.rubenbejar.com) bajo una [licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES). El reconocimiento debe incluir el siguiente texto:
+Salvo donde se indica lo contrario, las transparencias son Copyright © 2015 [Rubén Béjar](http://www.rubenbejar.com) bajo una [licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES). El reconocimiento en cualquier trabajo derivado a partir de este debe incluir el siguiente texto (e indicar que se han hecho cambios):
 
-`Copyright © 2015 Rubén Béjar <http://www.rubenbejar.com>`
+`Basado en material con copyright © 2015 Rubén Béjar <http://www.rubenbejar.com>`
 
