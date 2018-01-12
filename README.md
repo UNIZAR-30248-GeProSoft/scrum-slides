@@ -15,7 +15,7 @@ En las clases nos basamos en libro [Essential Scrum: A Practical Guide to the Mo
 - Sprints en detalle: capítulos 19, 20, 21 y 22.
 - Roles en detalle: capítulos 9, 10, 11, 12 y 13
 
-Si solo se quiere una introducción rápida a los elementos principales de Scrum, bastaría con tema de Introducción, aunque yo sugiero mirar también el de Principios ágiles, donde se explican algunos fundamentos.
+Si solo se quiere una introducción rápida a los elementos principales de Scrum, bastaría con el tema de Introducción, aunque yo sugiero mirar también el de Principios ágiles, donde se explican algunos fundamentos.
 
 Si se quiere profundizar más, habría que añadir los temas de Sprints, Requisitos e Historias de Usuario, Pila del producto y Estimación y velocidad. 
 
@@ -25,7 +25,7 @@ Finalmente, los temas de Planificación, Sprints en detalle y Roles en detalle s
 Las transparecias están en formato OpenDocument y se han creado con LibreOffice (con la aplicación Impress), aunque se pueden abrir en otros paquetes ofimáticos. También hay una carpeta con las transparencias en formato PDF que si no se quieren modificar es más universal.
 
 # Licencia
-Salvo donde se indica lo contrario, las transparencias son Copyright © 2015 [Rubén Béjar](http://www.rubenbejar.com) bajo una [licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES). El reconocimiento en cualquier trabajo derivado a partir de este debe incluir el siguiente texto (e indicar que se han hecho cambios):
+Salvo donde se indica lo contrario, las transparencias son Copyright © 2017 [Rubén Béjar](http://www.rubenbejar.com) bajo una [licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES). El reconocimiento en cualquier trabajo derivado a partir de este debe incluir el siguiente texto (e indicar que se han hecho cambios):
 
-`Basado en material con copyright © 2015 Rubén Béjar <http://www.rubenbejar.com>`
+`Basado en material con copyright © 2017 Rubén Béjar <http://www.rubenbejar.com>`
 
