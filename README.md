@@ -1,5 +1,5 @@
 # Gestión de Proyecto Software
-Gestión de Proyecto Software es una asignatura de 4º curso del [grado en ingeniería informática de la Universida de Zaragoza](https://estudios.unizar.es/estudio/ver?id=148), en la especialidad de ingeniería del software.
+Gestión de Proyecto Software es una asignatura de 4º curso del [grado en ingeniería informática de la Universidad de Zaragoza](https://estudios.unizar.es/estudio/ver?id=148), en la especialidad de ingeniería del software.
 
 # Transparencias sobre Scrum
 En las clases nos basamos en libro [Essential Scrum: A Practical Guide to the Most Popular Agile Process by Kenneth S. Rubin](http://www.essentialscrum.com/). Las transparencias que hay en este repositorio son el soporte de las clases de teoría y cubren los capítulos 
