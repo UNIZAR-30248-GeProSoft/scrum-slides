@@ -1,5 +1,5 @@
 # Gestión de Proyecto Software
-[Gestión de Proyecto Software](http://titulaciones.unizar.es/asignaturas/30248/) es una asignatura de 4º curso del grado en ingeniería informática de la Universida de Zaragoza, en la especialidad de ingeniería del software.
+Gestión de Proyecto Software es una asignatura de 4º curso del [grado en ingeniería informática de la Universida de Zaragoza](https://estudios.unizar.es/estudio/ver?id=148), en la especialidad de ingeniería del software.
 
 # Transparencias sobre Scrum
 En las clases nos basamos en libro [Essential Scrum: A Practical Guide to the Most Popular Agile Process by Kenneth S. Rubin](http://www.essentialscrum.com/). Las transparencias que hay en este repositorio son el soporte de las clases de teoría y cubren los capítulos 
@@ -25,7 +25,7 @@ Finalmente, los temas de Planificación, Sprints en detalle y Roles en detalle s
 Las transparecias están en formato OpenDocument y se han creado con LibreOffice (con la aplicación Impress), aunque se pueden abrir en otros paquetes ofimáticos. También hay una carpeta con las transparencias en formato PDF que si no se quieren modificar es más universal.
 
 # Licencia
-Salvo donde se indica lo contrario, las transparencias son Copyright © 2017 [Rubén Béjar](http://www.rubenbejar.com) bajo una [licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES). El reconocimiento en cualquier trabajo derivado a partir de este debe incluir el siguiente texto (e indicar que se han hecho cambios):
+Salvo donde se indica lo contrario, las transparencias son Copyright © 2019 [Rubén Béjar](http://www.rubenbejar.com) bajo una [licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES). El reconocimiento en cualquier trabajo derivado a partir de este debe incluir el siguiente texto (e indicar que se han hecho cambios):
 
-`Basado en material con copyright © 2017 Rubén Béjar <http://www.rubenbejar.com>`
+`Basado en material con copyright © 2019 Rubén Béjar <http://www.rubenbejar.com>`
 
