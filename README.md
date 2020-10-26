@@ -21,6 +21,9 @@ Si se quiere profundizar más, habría que añadir los temas de Sprints, Requisi
 
 Finalmente, los temas de Planificación, Sprints en detalle y Roles en detalle se pueden considerar los más "avanzados".
 
+# Otros temas
+Hay un tema sobre tests en proyectos ágiles, para ayudar a los estudiantes a integrar distintas buenas prácticas y tipos de pruebas en proyectos gestionados con Scrum.
+
 # Formato
 Las transparecias están en formato OpenDocument y se han creado con LibreOffice (con la aplicación Impress), aunque se pueden abrir en otros paquetes ofimáticos. También hay una carpeta con las transparencias en formato PDF que si no se quieren modificar es más universal.
 
